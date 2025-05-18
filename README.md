@@ -1,57 +1,60 @@
-# ✅ Project Idea: **Password Vault Lite**  
-### 🛡️ Offline Password Manager
+# ✅ About the Project: **Password Vault Lite**
+
+## 🛡️ Offline Password Manager
+
+> Password Vault Lite provides a secure environment to store and manage your passwords without needing an internet connection. Focusing on privacy and ease of use, it is the ideal solution for those who want to keep their data protected from third parties.
 
 ---
 
 ![Status](https://img.shields.io/badge/status-in%20progress-blue)
+![Updates](https://img.shields.io/badge/updates-planned-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Made with](https://img.shields.io/badge/Made%20with-HTML%20%7C%20CSS%20%7C%20JS-orange)
 
 ---
 
-## 🔐 Περιγραφή
+## 🔐 Description
 
-Το **Password Vault Lite** είναι ένας **τοπικός password manager** (χωρίς σύνδεση σε server) που προσφέρει στον χρήστη:
+**Password Vault Lite** is a **local password manager** (no server connection required) that offers users:
 
-- 💾 Αποθήκευση στοιχείων: `Website / Username / Password`
-- 📋 Προβολή και διαχείριση των αποθηκευμένων κωδικών
-- 🔐 Κρυπτογράφηση δεδομένων μέσω **LocalStorage**
-- 🛠️ Ενσωματωμένο **Password Generator** για ισχυρούς και ασφαλείς κωδικούς
-- 🌗 Υποστήριξη **Light / Dark Mode** για βελτιωμένη εμπειρία χρήσης
-
----
-
-## 🛠️ Τεχνολογίες
-
-Το project έχει υλοποιηθεί με τις εξής τεχνολογίες:
-
-- 🧠 **JavaScript** – για τη διαχείριση λειτουργιών και την κρυπτογράφηση δεδομένων  
-- 🎨 **HTML5 & CSS3** – για τη δομή και το responsive design του UI  
-- 🗂️ **LocalStorage API** – για αποθήκευση δεδομένων τοπικά στον browser  
-- 🌙 **Dark/Light Mode** toggle – υλοποιημένο με CSS & JS  
-- 🔒 **CryptoJS** (ή παρόμοια βιβλιοθήκη) – για βασική κρυπτογράφηση των κωδικών
+- 💾 Storage of credentials: `Website / Username / Password`
+- 📋 Viewing and managing saved passwords
+- 🔐 Data encryption via **LocalStorage**
+- 🛠️ Built-in **Password Generator** for strong and secure passwords
+- 🌗 Support for **Light / Dark Mode** for improved user experience
 
 ---
 
-## 🎯 Στόχος
+## 🛠️ Technologies
 
-Να παρέχει ένα **απλό, ασφαλές και 100% offline εργαλείο** διαχείρισης κωδικών.  
-Ιδανικό για χρήστες που προτιμούν την **τοπική αποθήκευση**, χωρίς cloud ή servers.
+This project is built with the following technologies:
 
----
-
-## 🚧 Κατάσταση Ανάπτυξης
-
-🔨 Το project βρίσκεται **σε στάδιο ανάπτυξης**  
-📌 Νέες λειτουργίες και βελτιώσεις θα προστεθούν σύντομα!
+- 🧠 **JavaScript** – for handling functionality and data encryption  
+- 🎨 **HTML5 & CSS3** – for UI structure and responsive design  
+- 🗂️ **LocalStorage API** – for local data storage in the browser  
+- 🌙 **Dark/Light Mode** toggle – implemented with CSS & JS  
+- 🔒 **CryptoJS** (or similar library) – for basic password encryption
 
 ---
 
-## 📎 Σύνδεσμοι (θα προστεθούν)
+## 🎯 Goal
 
-- 🔗 Live Demo: _coming soon_  
-- 💻 GitHub Repository: _coming soon_  
-- 📬 Επικοινωνία: [me@karafylles.me](mailto:me@karafylles.me)
+To provide a **simple, secure, and 100% offline password management tool**.  
+Ideal for users who prefer **local storage** without cloud or servers.
+
+---
+
+## 🚧 Development Status
+
+🔨 The project is currently **under development**  
+📌 New features and improvements will be added soon!
+
+---
+
+## 📎 Links (coming soon)
+
+- 💻 GitHub Repository: [Source Code on GitHub](https://github.com/Crimeeee/Passord-Vault-Lite)  
+- 📬 Contact: [me@karafylles.me](mailto:me@karafylles.me)
 
 ---
 
