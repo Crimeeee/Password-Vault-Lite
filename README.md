@@ -4,6 +4,7 @@
 ---
 
 ![Status](https://img.shields.io/badge/status-in%20progress-blue)
+![Updates](https://img.shields.io/badge/updates-planned-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Made with](https://img.shields.io/badge/Made%20with-HTML%20%7C%20CSS%20%7C%20JS-orange)
 
@@ -49,8 +50,7 @@
 
 ## 📎 Σύνδεσμοι (θα προστεθούν)
 
-- 🔗 Live Demo: _coming soon_  
-- 💻 GitHub Repository: _coming soon_  
+- 💻 GitHub Repository: [Κώδικας στο GitHub](https://github.com/Crimeeee/Passord-Vault-Lite)
 - 📬 Επικοινωνία: [me@karafylles.me](mailto:me@karafylles.me)
 
 ---
