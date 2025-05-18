@@ -1,4 +1,4 @@
-# ✅ Project Idea: **Password Vault Lite**  
+# ✅ About the Project: **Password Vault Lite**  
 ### 🛡️ Offline Password Manager
 
 ---
